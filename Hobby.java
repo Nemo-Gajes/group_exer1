@@ -10,5 +10,6 @@ public static void main(String[] args) {
     System.out.println("EMEL");
     System.out.println("gitaa o hikimasu");
     System.out.println("axlsan to osake o nomimasu");
+    System.out.println("hello");
     }
 }
