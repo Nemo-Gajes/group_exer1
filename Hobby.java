@@ -1,11 +1,11 @@
 public class Hobby {
-public static void main(String[] args) {
-    displayTraineeHobbyA();
-    displayTraineeHobbyB();
-    displayTraineeHobbyC();
+    public static void main(String[] args) {
+        displayTraineeHobbyA();
+        displayTraineeHobbyB();
+        displayTraineeHobbyC();
     }
 
-    public static void displayTraineeHobbyA() {
+    public static void displayTraineeHobbyB() {
     System.out.println("Trainee A’s Hobbies:");
     System.out.println("EMEL");
     System.out.println("gitaa o hikimasu");
