@@ -12,4 +12,10 @@ public class Hobby {
     System.out.println("axlsan to osake o nomimasu");
     System.out.println("hello");
     }
+    
+    public static void displayTraineeHobbyB() {
+    System.out.println("Trainee X’s Hobbies:");
+    // osake nomu
+    // nemasu
+    }
 }
