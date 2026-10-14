@@ -1,14 +1,14 @@
 public class Hobby {
-public static void main(String[] args) {
-    displayTraineeHobbyA();
-    displayTraineeHobbyB();
-    displayTraineeHobbyC();
+    public static void main(String[] args) {
+        displayTraineeHobbyA();
+        displayTraineeHobbyB();
+        displayTraineeHobbyC();
     }
 
-    public static void displayTraineeHobbyA() {
+    public static void displayTraineeHobbyB() {
     System.out.println("Trainee A’s Hobbies:");
-    System.out.println("EMEL");
-    System.out.println("gitaa o hikimasu");
-    System.out.println("axlsan to osake o nomimasu");
+    System.out.println("osake o nomimasu");
+    System.out.println("nemasu");
+    System.out.println("Tabemono wo tabemasu");
     }
 }
