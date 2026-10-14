@@ -4,4 +4,10 @@ public class Hobby {
         displayTraineeHobbyB();
         displayTraineeHobbyC();
     }
+
+    public static void displayTraineeHobbyB() {
+    System.out.println("Trainee X’s Hobbies:");
+    // osake nomu
+    // nemasu
+    }
 }
